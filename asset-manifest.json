@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Fmmzy-app/static/css/main.2ca91801.css",
+    "main.js": "/Fmmzy-app/static/js/main.ad6de042.js",
+    "index.html": "/Fmmzy-app/index.html",
+    "static/media/search.svg": "/Fmmzy-app/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.2ca91801.css.map": "/Fmmzy-app/static/css/main.2ca91801.css.map",
+    "main.ad6de042.js.map": "/Fmmzy-app/static/js/main.ad6de042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca91801.css",
+    "static/js/main.ad6de042.js"
+  ]
+}
