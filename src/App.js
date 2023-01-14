@@ -24,10 +24,10 @@ useEffect(() => {
       
   return (
     <div className='app'>
-      <h1>Fmmzy Movies App</h1>
+      <h1>Fmmzy Movie App</h1>
       <div className="search">
         <input placeholder="Search for movies" value={searchTerm} onChange={(e)=>{ setSearchTerm(e.target.value)}} />
-        
+
         <img src={searchIcon} alt="search icon" onClick={()=>{fetchMovies(searchTerm)}} />
       </div>
       {movies?.length > 0 ?
